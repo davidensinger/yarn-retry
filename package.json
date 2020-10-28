@@ -1,7 +1,7 @@
 {
   "name": "@daveydave856/yarn-retry",
   "description": "retry yarn when it fails",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "repository": {
     "url": "git@github.com:davidensinger/yarn-retry.git"
   },
