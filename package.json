@@ -1,15 +1,27 @@
 {
-  "name": "yarn-retry",
+  "name": "@daveydave856/yarn-retry",
   "description": "retry yarn when it fails",
   "version": "1.2.1",
   "repository": {
-    "url": "git://github.com/artemv/yarn-retry.git"
+    "url": "git@github.com:davidensinger/yarn-retry.git"
   },
   "author": {
-    "name": "Artem Vasiliev",
-    "email": "artem.job@gmail.com",
-    "url": "github.com/artemv"
+    "name": "David Ensinger",
+    "email": "hello@davidensinger.com",
+    "url": "https://davidensinger.com"
   },
+  "contributors": [
+    {
+      "name": "José F. Romaniello",
+      "email": "jfromaniello@gmail.com",
+      "url": "http://joseoncode.com"
+    },
+    {
+      "name": "Artem Vasiliev",
+      "email": "artem.job@gmail.com",
+      "url": "github.com/artemv"
+    }
+  ],
   "license": "MIT",
   "bin": {
     "yarn-retry": "./bin/yarn-retry"
