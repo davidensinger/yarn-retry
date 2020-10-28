@@ -10,6 +10,7 @@
     "email": "artem.job@gmail.com",
     "url": "github.com/artemv"
   },
+  "license": "MIT",
   "bin": {
     "yarn-retry": "./bin/yarn-retry"
   },
